@@ -1,2 +1,2 @@
-# ying-daily
-front-end daily
+# 鱼塘日报/晚报合集
+> 为了方便各位随时翻阅过往的日报/晚报，特意建了个github仓库来保存文章链接，欢迎star。
