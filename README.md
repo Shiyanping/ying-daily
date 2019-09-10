@@ -3,8 +3,8 @@
 
 如果对文章内容有任何疑问或建议，欢迎随时扫描下方二维码加鱼头微信来详谈，备注带有『ying-daily』即可。
 
-![img/wx.jpg]()
+![img/wx.jpg](img/wx.jpg)
 
 同时也欢迎扫描关注鱼头公众号『鱼头的Web海洋』，随时查看最新文章。
 
-![img/gzh.jpg]()
+![img/gzh.jpg](img/gzh.jpg)
